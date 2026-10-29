@@ -1,0 +1,6 @@
+{
+  "name": "PIVO — Digital Web Development Agency & Portfolio",
+  "description": "Minimalist digital web development agency portfolio and project request platform with a dedicated administrator dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
